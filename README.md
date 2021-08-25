@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DeckerMV.
 - 👀 I’m interested in Mobile development & Game development.
-- 🌱 I’m currently learning C#, JavaScript & MSSQL Server.
+- 🌱 I’m currently learning C#, JavaScript & Kotlin.
 - 💞️ I’m looking to collaborate on small projects from Mexico.
 - 📫 Reach me at Twitter (@DeckerMV_).  
 
