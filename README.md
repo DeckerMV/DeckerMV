@@ -1,8 +1,9 @@
-- 👋 Hi, My name is Erick D. Martínez Vega, also known as DeckerMV in social media.
-- 👀 I’m interested in Mobile development & Game development.
-- 🌱 I’m currently learning C#, JavaScript & Kotlin.
-- 💞️ I’m looking to collaborate on small projects from Mexico.
-- 📫 Reach me at Twitter (@DeckerMV_).  
+- 👋 I'm Erick D. Martínez Vega, also known as DeckerMV in social media (he/him).
+- 👀 My main abilities are: Mobile development in Xamarin.Forms.
+- 🌱 Currently learning C#, Kotlin & JavaScript.
+- 💞️ I’d like to collaborate on tech start-ups from Mexico & USA.
+- 🎨 Hobbies and interests: Gaming, Animation, Illustration & Music.
+- 📫 My main socials are Twitter & Instagram (@DeckerMV_).  
 
 <!---
 DeckerMV/DeckerMV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
