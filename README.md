@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DeckerMV.
+- 👋 Hi, My name is Erick D. Martínez Vega, also known as DeckerMV in social media.
 - 👀 I’m interested in Mobile development & Game development.
 - 🌱 I’m currently learning C#, JavaScript & Kotlin.
 - 💞️ I’m looking to collaborate on small projects from Mexico.
