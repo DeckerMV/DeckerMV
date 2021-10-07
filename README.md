@@ -1,6 +1,5 @@
 - 👋 I'm Erick D. Martínez Vega, also known as DeckerMV in social media (he/him).
-- 👀 My main abilities are: Mobile development.
-- 🌱 Currently learning Kotlin & Dart.
+- 🌱 Current skills: Kotlin & Java for Mobile Development.
 - 💞️ I’d like to collaborate on tech start-ups from Mexico & USA.
 - 🎨 Hobbies and interests: Gaming, Animation, Illustration & Music.
 - 📫 My main socials are Twitter & Instagram (@DeckerMV_).  
